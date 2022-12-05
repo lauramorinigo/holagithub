@@ -1,4 +1,5 @@
 # Pasos para empezar con github
+## Aprendiendo git
 
 - git init: para inicializar el proyecto
 - git add: para agregar los archivos correspondientes
